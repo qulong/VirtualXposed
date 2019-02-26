@@ -52,6 +52,7 @@ import io.virtualapp.settings.SettingsActivity;
 import io.virtualapp.update.VAVersionService;
 import io.virtualapp.utils.Misc;
 
+import static android.os.Looper.getMainLooper;
 import static io.virtualapp.XApp.XPOSED_INSTALLER_PACKAGE;
 
 /**
